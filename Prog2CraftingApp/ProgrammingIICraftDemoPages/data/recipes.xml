@@ -1,0 +1,38 @@
+<recipes>
+	<recipe recipeName = "Powdered Sugar Icing" recipeDescription="Tasty icing that can be used with many recipes." recipeValue = "10.34" recipeAmount = "2" recipeAmountType ="pound(s)">
+		<item itemName = "Powdered Sugar" itemDescription = "..." itemValue = "1.95" itemAmount = "1" itemAmountType = "cup"></item>
+		<item itemName = "Vanilla Extract" itemDescription = "..." itemValue = "2.67" itemAmount = "2" itemAmountType = "tsp"></item>
+		<item itemName = "Milk" itemDescription = "..." itemValue = "4.25" itemAmount = "2" itemAmountType = "tbsp"></item>
+	</recipe>
+	
+
+	<recipe recipeName ="Chocolate Cake" recipeDescription="A cake that has a rich Chocolate taste" recipeValue="16.35" recipeAmount="2" recipeAmountType="pound(s)">
+		<item itemName = "Powdered Sugar" itemDescription="a light fluffy sugar substance" itemValue = "1.95" itemAmount = "1" itemAmountType = "cup" ></item>
+		<item itemName = "Bananas" itemDescription = "a yellow fruit" itemValue = "1.5" itemAmount="2" itemAmountType = "whole"></item>
+		<item itemName = "Eggs" itemDescription = "A protein to help make dough" itemValue = "1.75" itemAmount="2" itemAmountType="whole"></item>
+		<item itemName = "Cacao Powder" itemDescription = "a powder from a Cacao plant " itemValue = "2.30" itemAmount="2" itemAmountType="tbsp"></item>
+	</recipe>
+
+	<recipe recipeName ="Gooey Chocolate Peanut Bars" recipeDescription="Peanut Bars that will satisfy any sweet tooth" recipeValue="11.12" recipeAmount="2" recipeAmountType="dozen">
+		<item itemName = "Chocolate chip Cookie Dough" itemDescription="" itemValue = "2.23" itemAmount = "16" itemAmountType = "ounces" ></item>
+		<item itemName = "Chocolate covered peanuts" itemDescription="" itemValue = "2.00" itemAmount = "2" itemAmountType = "cup" ></item>
+		<item itemName = "Miniature Marshmallows" itemDescription="" itemValue = "1.90" itemAmount = "1" itemAmountType = "cup" ></item>
+		<item itemName = "Butterscotch ice cream topping" itemDescription="" itemValue = "2.15" itemAmount = "0.5" itemAmountType = "cup" ></item>
+			</recipe>	
+	<recipe recipeName ="Apple Pie Bites" recipeDescription="" recipeValue="9.85" recipeAmount="2" recipeAmountType="dozen">
+		<item itemName = "Powdered Sugar" itemDescription="" itemValue = "1.95" itemAmount = "0.5" itemAmountType = "cup" ></item>
+		<item itemName = "ground cinnamon" itemDescription="" itemValue = "1.45" itemAmount = "2" itemAmountType = "tsp" ></item>
+		<item itemName = "Pie Crust" itemDescription="" itemValue = "3.05" itemAmount = "2" itemAmountType = "sheets" ></item>
+		<item itemName = "Butter" itemDescription="" itemValue = "2.05" itemAmount = "3" itemAmountType = "tbsp" ></item>
+		<item itemName = "Tart apple" itemDescription="" itemValue = "3.85" itemAmount = "2" itemAmountType = "whole" ></item>
+			</recipe>
+
+<recipe recipeName ="Oat Cookies" recipeDescription="" recipeValue="6.34" recipeAmount="0.5" recipeAmountType="dozen">
+		<item itemName = "Bananas" itemDescription = "a yellow fruit" itemValue = "1.5" itemAmount="1" itemAmountType = "whole"></item>
+		<item itemName = "Quick Oats" itemDescription = "" itemValue = "1.96" itemAmount="1" itemAmountType = "cup"></item>
+
+	
+			</recipe>
+
+
+</recipes>
