@@ -1,0 +1,58 @@
+﻿<UserControl x:Class="SportsWPF.UserControls.UCPlayer"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:SportsWPF.UserControls"
+             mc:Ignorable="d"
+             d:DesignHeight="450"
+             d:DesignWidth="800">
+    <Grid>
+        <StackPanel>
+            <Separator/>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Sport:"/>
+                <ComboBox Width="150" VerticalAlignment="Center" ItemsSource="{Binding Sports}" SelectedItem="{Binding SelectedSport}" DisplayMemberPath="Name" />
+            </StackPanel>
+            <!-- Players Drop Down -->
+            <Separator/>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Player:"/>
+                <ComboBox Width="150" VerticalAlignment="Center" ItemsSource="{Binding Players}" SelectedItem="{Binding SelectedPlayer}" DisplayMemberPath="Name" />
+            </StackPanel>
+            <!-- Player Information -->
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Number:"/>
+                <TextBlock VerticalAlignment="Center" Text="{Binding PlayerNumber}"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Wins:"/>
+                <TextBlock VerticalAlignment="Center" Text="{Binding PlayerWins}"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Losses:"/>
+                <TextBlock VerticalAlignment="Center" Text="{Binding PlayerLosses}"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Matches Played:"/>
+                <TextBlock VerticalAlignment="Center" Text="{Binding PlayerMatchesPlayed}"/>
+            </StackPanel>
+            <!-- Section for Adding Player -->
+            <Separator/>
+            <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+                <Label Content="New Player Name:" VerticalAlignment="Center"/>
+                <TextBox Width="150" VerticalAlignment="Center" Text="{Binding NewPlayerName, UpdateSourceTrigger=PropertyChanged}"/>
+                <Label Content="Number:" VerticalAlignment="Center" Margin="10,0,0,0"/>
+                <TextBox Width="50" VerticalAlignment="Center" Text="{Binding NewPlayerNumber, UpdateSourceTrigger=PropertyChanged}"/>
+                <Label Content="Wins:" VerticalAlignment="Center" Margin="10,0,0,0"/>
+                <TextBox Width="50" VerticalAlignment="Center" Text="{Binding NewPlayerWins, UpdateSourceTrigger=PropertyChanged}"/>
+                <Label Content="Losses:" VerticalAlignment="Center" Margin="10,0,0,0"/>
+                <TextBox Width="50" VerticalAlignment="Center" Text="{Binding NewPlayerLosses, UpdateSourceTrigger=PropertyChanged}"/>
+                <Label Content="Matches Played:" VerticalAlignment="Center" Margin="10,0,0,0"/>
+                <TextBox Width="50" VerticalAlignment="Center" Text="{Binding NewPlayerMatches, UpdateSourceTrigger=PropertyChanged}"/>
+                
+            </StackPanel>
+            <Button Content="Add Player" Width="100" Command="{Binding AddPlayerCommand}" Margin="10,0,0,0"/>
+        </StackPanel>
+    </Grid>
+</UserControl>

@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luis\\Downloads\\Midterm (3)\\Midterm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86AE2F6D-5EF5-47BC-9A39-83B77DE08956}|Midterm.csproj|c:\\users\\luis\\downloads\\midterm (3)\\midterm\\story.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86AE2F6D-5EF5-47BC-9A39-83B77DE08956}|Midterm.csproj|solutionrelative:story.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86AE2F6D-5EF5-47BC-9A39-83B77DE08956}|Midterm.csproj|C:\\Users\\Luis\\Downloads\\Midterm (3)\\Midterm\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86AE2F6D-5EF5-47BC-9A39-83B77DE08956}|Midterm.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86AE2F6D-5EF5-47BC-9A39-83B77DE08956}|Midterm.csproj|C:\\Users\\Luis\\Downloads\\Midterm (3)\\Midterm\\kyle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86AE2F6D-5EF5-47BC-9A39-83B77DE08956}|Midterm.csproj|solutionrelative:kyle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86AE2F6D-5EF5-47BC-9A39-83B77DE08956}|Midterm.csproj|C:\\Users\\Luis\\Downloads\\Midterm (3)\\Midterm\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86AE2F6D-5EF5-47BC-9A39-83B77DE08956}|Midterm.csproj|solutionrelative:npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86AE2F6D-5EF5-47BC-9A39-83B77DE08956}|Midterm.csproj|C:\\Users\\Luis\\Downloads\\Midterm (3)\\Midterm\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86AE2F6D-5EF5-47BC-9A39-83B77DE08956}|Midterm.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86AE2F6D-5EF5-47BC-9A39-83B77DE08956}|Midterm.csproj|C:\\Users\\Luis\\Downloads\\Midterm (3)\\Midterm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86AE2F6D-5EF5-47BC-9A39-83B77DE08956}|Midterm.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86AE2F6D-5EF5-47BC-9A39-83B77DE08956}|Midterm.csproj|C:\\Users\\Luis\\Downloads\\Midterm (3)\\Midterm\\alex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86AE2F6D-5EF5-47BC-9A39-83B77DE08956}|Midterm.csproj|solutionrelative:alex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86AE2F6D-5EF5-47BC-9A39-83B77DE08956}|Midterm.csproj|C:\\Users\\Luis\\Downloads\\Midterm (3)\\Midterm\\tyrone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86AE2F6D-5EF5-47BC-9A39-83B77DE08956}|Midterm.csproj|solutionrelative:tyrone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86AE2F6D-5EF5-47BC-9A39-83B77DE08956}|Midterm.csproj|C:\\Users\\Luis\\Downloads\\Midterm (3)\\Midterm\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86AE2F6D-5EF5-47BC-9A39-83B77DE08956}|Midterm.csproj|solutionrelative:inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{86AE2F6D-5EF5-47BC-9A39-83B77DE08956}|Midterm.csproj|c:\\users\\luis\\downloads\\midterm (3)\\midterm\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}",
+      "RelativeMoniker": "D:1:0:{86AE2F6D-5EF5-47BC-9A39-83B77DE08956}|Midterm.csproj|solutionrelative:classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{86AE2F6D-5EF5-47BC-9A39-83B77DE08956}|Midterm.csproj|c:\\users\\luis\\downloads\\midterm (3)\\midterm\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}",
+      "RelativeMoniker": "D:2:0:{86AE2F6D-5EF5-47BC-9A39-83B77DE08956}|Midterm.csproj|solutionrelative:classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\Midterm (3)\\Midterm\\Game.cs",
+              "RelativeDocumentMoniker": "Game.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\Midterm (3)\\Midterm\\Game.cs",
+              "RelativeToolTip": "Game.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAAA1wKIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T21:13:09.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Story.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\Midterm (3)\\Midterm\\Story.cs",
+              "RelativeDocumentMoniker": "Story.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\Midterm (3)\\Midterm\\Story.cs",
+              "RelativeToolTip": "Story.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T21:13:09.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Alex.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\Midterm (3)\\Midterm\\Alex.cs",
+              "RelativeDocumentMoniker": "Alex.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\Midterm (3)\\Midterm\\Alex.cs",
+              "RelativeToolTip": "Alex.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAmwBEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T21:13:10.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\Midterm (3)\\Midterm\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\Midterm (3)\\Midterm\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T21:13:10.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\Midterm (3)\\Midterm\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\Midterm (3)\\Midterm\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T21:13:10.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NPC.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\Midterm (3)\\Midterm\\NPC.cs",
+              "RelativeDocumentMoniker": "NPC.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\Midterm (3)\\Midterm\\NPC.cs",
+              "RelativeToolTip": "NPC.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvz4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T21:13:10.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kyle.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\Midterm (3)\\Midterm\\Kyle.cs",
+              "RelativeDocumentMoniker": "Kyle.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\Midterm (3)\\Midterm\\Kyle.cs",
+              "RelativeToolTip": "Kyle.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAmwBEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T21:13:10.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tyrone.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\Midterm (3)\\Midterm\\Tyrone.cs",
+              "RelativeDocumentMoniker": "Tyrone.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\Midterm (3)\\Midterm\\Tyrone.cs",
+              "RelativeToolTip": "Tyrone.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T21:13:10.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\Midterm (3)\\Midterm\\Inventory.cs",
+              "RelativeDocumentMoniker": "Inventory.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\Midterm (3)\\Midterm\\Inventory.cs",
+              "RelativeToolTip": "Inventory.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T21:13:10.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\Midterm (3)\\Midterm\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\Midterm (3)\\Midterm\\ClassDiagram1.cd",
+              "RelativeToolTip": "ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-10-14T21:13:10.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\Midterm (3)\\Midterm\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\Midterm (3)\\Midterm\\ClassDiagram1.cd",
+              "RelativeToolTip": "ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-10-14T21:13:10.022Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

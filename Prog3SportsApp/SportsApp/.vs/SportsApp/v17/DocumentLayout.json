@@ -1,0 +1,927 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportswpf\\usercontrols\\nav.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|solutionrelative:sportswpf\\usercontrols\\nav.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportswpf\\usercontrols\\nav.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|solutionrelative:sportswpf\\usercontrols\\nav.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportswpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|solutionrelative:sportswpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportswpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|solutionrelative:sportswpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportswpf\\viewmodels\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|solutionrelative:sportswpf\\viewmodels\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportswpf\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|solutionrelative:sportswpf\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414FD0C8-C922-4759-A7E0-941AC1DE0D35}|SportsApp\\SportsApp.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportsapp\\sport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414FD0C8-C922-4759-A7E0-941AC1DE0D35}|SportsApp\\SportsApp.csproj|solutionrelative:sportsapp\\sport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414FD0C8-C922-4759-A7E0-941AC1DE0D35}|SportsApp\\SportsApp.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportsapp\\sportsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414FD0C8-C922-4759-A7E0-941AC1DE0D35}|SportsApp\\SportsApp.csproj|solutionrelative:sportsapp\\sportsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52273B37-797D-4572-ADBF-E4F1272619F0}|WPFTests2\\WPFTests2.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\wpftests2\\scheduleviewmodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52273B37-797D-4572-ADBF-E4F1272619F0}|WPFTests2\\WPFTests2.csproj|solutionrelative:wpftests2\\scheduleviewmodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52273B37-797D-4572-ADBF-E4F1272619F0}|WPFTests2\\WPFTests2.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\wpftests2\\teamviewmodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52273B37-797D-4572-ADBF-E4F1272619F0}|WPFTests2\\WPFTests2.csproj|solutionrelative:wpftests2\\teamviewmodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52273B37-797D-4572-ADBF-E4F1272619F0}|WPFTests2\\WPFTests2.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\wpftests2\\adminviewmodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52273B37-797D-4572-ADBF-E4F1272619F0}|WPFTests2\\WPFTests2.csproj|solutionrelative:wpftests2\\adminviewmodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52273B37-797D-4572-ADBF-E4F1272619F0}|WPFTests2\\WPFTests2.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\wpftests2\\playerviewmodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52273B37-797D-4572-ADBF-E4F1272619F0}|WPFTests2\\WPFTests2.csproj|solutionrelative:wpftests2\\playerviewmodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CFC4D6-0520-4EFD-A6F7-84B40673672C}|SportsTests\\SportsTests.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportstests\\playertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53CFC4D6-0520-4EFD-A6F7-84B40673672C}|SportsTests\\SportsTests.csproj|solutionrelative:sportstests\\playertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CFC4D6-0520-4EFD-A6F7-84B40673672C}|SportsTests\\SportsTests.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportstests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53CFC4D6-0520-4EFD-A6F7-84B40673672C}|SportsTests\\SportsTests.csproj|solutionrelative:sportstests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CFC4D6-0520-4EFD-A6F7-84B40673672C}|SportsTests\\SportsTests.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportstests\\matchtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53CFC4D6-0520-4EFD-A6F7-84B40673672C}|SportsTests\\SportsTests.csproj|solutionrelative:sportstests\\matchtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CFC4D6-0520-4EFD-A6F7-84B40673672C}|SportsTests\\SportsTests.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportstests\\sportsrepotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53CFC4D6-0520-4EFD-A6F7-84B40673672C}|SportsTests\\SportsTests.csproj|solutionrelative:sportstests\\sportsrepotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414FD0C8-C922-4759-A7E0-941AC1DE0D35}|SportsApp\\SportsApp.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportsapp\\isportsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414FD0C8-C922-4759-A7E0-941AC1DE0D35}|SportsApp\\SportsApp.csproj|solutionrelative:sportsapp\\isportsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414FD0C8-C922-4759-A7E0-941AC1DE0D35}|SportsApp\\SportsApp.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportsapp\\isport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414FD0C8-C922-4759-A7E0-941AC1DE0D35}|SportsApp\\SportsApp.csproj|solutionrelative:sportsapp\\isport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414FD0C8-C922-4759-A7E0-941AC1DE0D35}|SportsApp\\SportsApp.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportsapp\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{414FD0C8-C922-4759-A7E0-941AC1DE0D35}|SportsApp\\SportsApp.csproj|solutionrelative:sportsapp\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CFC4D6-0520-4EFD-A6F7-84B40673672C}|SportsTests\\SportsTests.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportstests\\teamrepotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53CFC4D6-0520-4EFD-A6F7-84B40673672C}|SportsTests\\SportsTests.csproj|solutionrelative:sportstests\\teamrepotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414FD0C8-C922-4759-A7E0-941AC1DE0D35}|SportsApp\\SportsApp.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportsapp\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414FD0C8-C922-4759-A7E0-941AC1DE0D35}|SportsApp\\SportsApp.csproj|solutionrelative:sportsapp\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414FD0C8-C922-4759-A7E0-941AC1DE0D35}|SportsApp\\SportsApp.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportsapp\\iplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414FD0C8-C922-4759-A7E0-941AC1DE0D35}|SportsApp\\SportsApp.csproj|solutionrelative:sportsapp\\iplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414FD0C8-C922-4759-A7E0-941AC1DE0D35}|SportsApp\\SportsApp.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportsapp\\teamrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414FD0C8-C922-4759-A7E0-941AC1DE0D35}|SportsApp\\SportsApp.csproj|solutionrelative:sportsapp\\teamrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414FD0C8-C922-4759-A7E0-941AC1DE0D35}|SportsApp\\SportsApp.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportsapp\\userdefinedsport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414FD0C8-C922-4759-A7E0-941AC1DE0D35}|SportsApp\\SportsApp.csproj|solutionrelative:sportsapp\\userdefinedsport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414FD0C8-C922-4759-A7E0-941AC1DE0D35}|SportsApp\\SportsApp.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportsapp\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414FD0C8-C922-4759-A7E0-941AC1DE0D35}|SportsApp\\SportsApp.csproj|solutionrelative:sportsapp\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportswpf\\viewmodels\\teamviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|solutionrelative:sportswpf\\viewmodels\\teamviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportswpf\\viewmodels\\scheduleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|solutionrelative:sportswpf\\viewmodels\\scheduleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportswpf\\viewmodels\\playerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|solutionrelative:sportswpf\\viewmodels\\playerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportswpf\\viewmodels\\basiccommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|solutionrelative:sportswpf\\viewmodels\\basiccommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportswpf\\usercontrols\\ucplayer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|solutionrelative:sportswpf\\usercontrols\\ucplayer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportswpf\\usercontrols\\ucplayer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|solutionrelative:sportswpf\\usercontrols\\ucplayer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportswpf\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|solutionrelative:sportswpf\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52273B37-797D-4572-ADBF-E4F1272619F0}|WPFTests2\\WPFTests2.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\wpftests2\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52273B37-797D-4572-ADBF-E4F1272619F0}|WPFTests2\\WPFTests2.csproj|solutionrelative:wpftests2\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414FD0C8-C922-4759-A7E0-941AC1DE0D35}|SportsApp\\SportsApp.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportsapp\\sportsapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{414FD0C8-C922-4759-A7E0-941AC1DE0D35}|SportsApp\\SportsApp.csproj|solutionrelative:sportsapp\\sportsapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportswpf\\sportswpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|solutionrelative:sportswpf\\sportswpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414FD0C8-C922-4759-A7E0-941AC1DE0D35}|SportsApp\\SportsApp.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportsapp\\airhockey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414FD0C8-C922-4759-A7E0-941AC1DE0D35}|SportsApp\\SportsApp.csproj|solutionrelative:sportsapp\\airhockey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportswpf\\teamwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|solutionrelative:sportswpf\\teamwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414FD0C8-C922-4759-A7E0-941AC1DE0D35}|SportsApp\\SportsApp.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportsapp\\streetball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414FD0C8-C922-4759-A7E0-941AC1DE0D35}|SportsApp\\SportsApp.csproj|solutionrelative:sportsapp\\streetball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414FD0C8-C922-4759-A7E0-941AC1DE0D35}|SportsApp\\SportsApp.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportsapp\\chess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414FD0C8-C922-4759-A7E0-941AC1DE0D35}|SportsApp\\SportsApp.csproj|solutionrelative:sportsapp\\chess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414FD0C8-C922-4759-A7E0-941AC1DE0D35}|SportsApp\\SportsApp.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportsapp\\wrestling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414FD0C8-C922-4759-A7E0-941AC1DE0D35}|SportsApp\\SportsApp.csproj|solutionrelative:sportsapp\\wrestling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportswpf\\schedulewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|solutionrelative:sportswpf\\schedulewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportswpf\\schedulewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|solutionrelative:sportswpf\\schedulewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportswpf\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|solutionrelative:sportswpf\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414FD0C8-C922-4759-A7E0-941AC1DE0D35}|SportsApp\\SportsApp.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportsapp\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414FD0C8-C922-4759-A7E0-941AC1DE0D35}|SportsApp\\SportsApp.csproj|solutionrelative:sportsapp\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportswpf\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|solutionrelative:sportswpf\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportswpf\\playerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|solutionrelative:sportswpf\\playerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportswpf\\playerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|solutionrelative:sportswpf\\playerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportswpf\\teamwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|solutionrelative:sportswpf\\teamwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportswpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|solutionrelative:sportswpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportswpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1026177F-6735-42BC-8900-80510A234AD9}|SportsWPF\\SportsWPF.csproj|solutionrelative:sportswpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414FD0C8-C922-4759-A7E0-941AC1DE0D35}|SportsApp\\SportsApp.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414FD0C8-C922-4759-A7E0-941AC1DE0D35}|SportsApp\\SportsApp.csproj|solutionrelative:sportsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414FD0C8-C922-4759-A7E0-941AC1DE0D35}|SportsApp\\SportsApp.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportsapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414FD0C8-C922-4759-A7E0-941AC1DE0D35}|SportsApp\\SportsApp.csproj|solutionrelative:sportsapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414FD0C8-C922-4759-A7E0-941AC1DE0D35}|SportsApp\\SportsApp.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportsapp\\iteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414FD0C8-C922-4759-A7E0-941AC1DE0D35}|SportsApp\\SportsApp.csproj|solutionrelative:sportsapp\\iteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414FD0C8-C922-4759-A7E0-941AC1DE0D35}|SportsApp\\SportsApp.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportsapp\\istats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414FD0C8-C922-4759-A7E0-941AC1DE0D35}|SportsApp\\SportsApp.csproj|solutionrelative:sportsapp\\istats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414FD0C8-C922-4759-A7E0-941AC1DE0D35}|SportsApp\\SportsApp.csproj|c:\\users\\luis\\downloads\\sportsappturninthisone\\sportsapp\\sportsapp\\iaddable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414FD0C8-C922-4759-A7E0-941AC1DE0D35}|SportsApp\\SportsApp.csproj|solutionrelative:sportsapp\\iaddable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\obj\\Debug\\net6.0-windows\\UserControls\\Nav.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SportsWPF\\obj\\Debug\\net6.0-windows\\UserControls\\Nav.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 183,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sport.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsApp\\Sport.cs",
+              "RelativeDocumentMoniker": "SportsApp\\Sport.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsApp\\Sport.cs",
+              "RelativeToolTip": "SportsApp\\Sport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:49:58.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlayerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsTests\\PlayerTests.cs",
+              "RelativeDocumentMoniker": "SportsTests\\PlayerTests.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsTests\\PlayerTests.cs",
+              "RelativeToolTip": "SportsTests\\PlayerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:53:40.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Nav.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\UserControls\\Nav.xaml.cs",
+              "RelativeDocumentMoniker": "SportsWPF\\UserControls\\Nav.xaml.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\UserControls\\Nav.xaml.cs",
+              "RelativeToolTip": "SportsWPF\\UserControls\\Nav.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwEMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T05:12:35.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Nav.xaml",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\UserControls\\Nav.xaml",
+              "RelativeDocumentMoniker": "SportsWPF\\UserControls\\Nav.xaml",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\UserControls\\Nav.xaml",
+              "RelativeToolTip": "SportsWPF\\UserControls\\Nav.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-09T05:12:23.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "SportsWPF\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\App.xaml.cs",
+              "RelativeToolTip": "SportsWPF\\App.xaml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T05:03:23.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\App.xaml",
+              "RelativeDocumentMoniker": "SportsWPF\\App.xaml",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\App.xaml",
+              "RelativeToolTip": "SportsWPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-09T05:03:20.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\ViewModels\\AdminViewModel.cs",
+              "RelativeDocumentMoniker": "SportsWPF\\ViewModels\\AdminViewModel.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\ViewModels\\AdminViewModel.cs",
+              "RelativeToolTip": "SportsWPF\\ViewModels\\AdminViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T06:42:58.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsTests\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "SportsTests\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsTests\\MSTestSettings.cs",
+              "RelativeToolTip": "SportsTests\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:52:33.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SportsRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsApp\\SportsRepo.cs",
+              "RelativeDocumentMoniker": "SportsApp\\SportsRepo.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsApp\\SportsRepo.cs",
+              "RelativeToolTip": "SportsApp\\SportsRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:57:29.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsApp\\Player.cs",
+              "RelativeDocumentMoniker": "SportsApp\\Player.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsApp\\Player.cs",
+              "RelativeToolTip": "SportsApp\\Player.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:49:09.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminViewModelTests.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\WPFTests2\\AdminViewModelTests.cs",
+              "RelativeDocumentMoniker": "WPFTests2\\AdminViewModelTests.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\WPFTests2\\AdminViewModelTests.cs",
+              "RelativeToolTip": "WPFTests2\\AdminViewModelTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T00:21:36.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TeamViewModelTests.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\WPFTests2\\TeamViewModelTests.cs",
+              "RelativeDocumentMoniker": "WPFTests2\\TeamViewModelTests.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\WPFTests2\\TeamViewModelTests.cs",
+              "RelativeToolTip": "WPFTests2\\TeamViewModelTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T00:33:58.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayerViewModelTests.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\WPFTests2\\PlayerViewModelTests.cs",
+              "RelativeDocumentMoniker": "WPFTests2\\PlayerViewModelTests.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\WPFTests2\\PlayerViewModelTests.cs",
+              "RelativeToolTip": "WPFTests2\\PlayerViewModelTests.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAuwDcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T00:30:41.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ScheduleViewModelTests.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\WPFTests2\\ScheduleViewModelTests.cs",
+              "RelativeDocumentMoniker": "WPFTests2\\ScheduleViewModelTests.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\WPFTests2\\ScheduleViewModelTests.cs",
+              "RelativeToolTip": "WPFTests2\\ScheduleViewModelTests.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwIUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T00:32:46.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminWIndow.xaml",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\AdminWIndow.xaml",
+              "RelativeDocumentMoniker": "SportsWPF\\AdminWIndow.xaml",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\AdminWIndow.xaml",
+              "RelativeToolTip": "SportsWPF\\AdminWIndow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-09T05:09:12.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TeamRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsApp\\TeamRepo.cs",
+              "RelativeDocumentMoniker": "SportsApp\\TeamRepo.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsApp\\TeamRepo.cs",
+              "RelativeToolTip": "SportsApp\\TeamRepo.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T22:42:41.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserDefinedSport.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsApp\\UserDefinedSport.cs",
+              "RelativeDocumentMoniker": "SportsApp\\UserDefinedSport.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsApp\\UserDefinedSport.cs",
+              "RelativeToolTip": "SportsApp\\UserDefinedSport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T07:18:04.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "iPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsApp\\iPlayer.cs",
+              "RelativeDocumentMoniker": "SportsApp\\iPlayer.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsApp\\iPlayer.cs",
+              "RelativeToolTip": "SportsApp\\iPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:48:23.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "iSportsRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsApp\\iSportsRepo.cs",
+              "RelativeDocumentMoniker": "SportsApp\\iSportsRepo.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsApp\\iSportsRepo.cs",
+              "RelativeToolTip": "SportsApp\\iSportsRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:38:55.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MatchTests.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsTests\\MatchTests.cs",
+              "RelativeDocumentMoniker": "SportsTests\\MatchTests.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsTests\\MatchTests.cs",
+              "RelativeToolTip": "SportsTests\\MatchTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:44:57.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SportsRepoTests.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsTests\\SportsRepoTests.cs",
+              "RelativeDocumentMoniker": "SportsTests\\SportsRepoTests.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsTests\\SportsRepoTests.cs",
+              "RelativeToolTip": "SportsTests\\SportsRepoTests.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwDsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:44:28.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TeamRepoTests.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsTests\\TeamRepoTests.cs",
+              "RelativeDocumentMoniker": "SportsTests\\TeamRepoTests.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsTests\\TeamRepoTests.cs",
+              "RelativeToolTip": "SportsTests\\TeamRepoTests.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:45:23.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsApp\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "SportsApp\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsApp\\ClassDiagram1.cd",
+              "RelativeToolTip": "SportsApp\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-12-13T21:47:49.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "iSport.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsApp\\iSport.cs",
+              "RelativeDocumentMoniker": "SportsApp\\iSport.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsApp\\iSport.cs",
+              "RelativeToolTip": "SportsApp\\iSport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:47:33.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Match.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsApp\\Match.cs",
+              "RelativeDocumentMoniker": "SportsApp\\Match.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsApp\\Match.cs",
+              "RelativeToolTip": "SportsApp\\Match.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T22:39:40.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TeamViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\ViewModels\\TeamViewModel.cs",
+              "RelativeDocumentMoniker": "SportsWPF\\ViewModels\\TeamViewModel.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\ViewModels\\TeamViewModel.cs",
+              "RelativeToolTip": "SportsWPF\\ViewModels\\TeamViewModel.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAABQwDEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T07:29:04.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ScheduleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\ViewModels\\ScheduleViewModel.cs",
+              "RelativeDocumentMoniker": "SportsWPF\\ViewModels\\ScheduleViewModel.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\ViewModels\\ScheduleViewModel.cs",
+              "RelativeToolTip": "SportsWPF\\ViewModels\\ScheduleViewModel.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T22:18:03.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PlayerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\ViewModels\\PlayerViewModel.cs",
+              "RelativeDocumentMoniker": "SportsWPF\\ViewModels\\PlayerViewModel.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\ViewModels\\PlayerViewModel.cs",
+              "RelativeToolTip": "SportsWPF\\ViewModels\\PlayerViewModel.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAuwH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T05:08:35.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BasicCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\ViewModels\\BasicCommand.cs",
+              "RelativeDocumentMoniker": "SportsWPF\\ViewModels\\BasicCommand.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\ViewModels\\BasicCommand.cs",
+              "RelativeToolTip": "SportsWPF\\ViewModels\\BasicCommand.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T05:08:22.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UCPlayer.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\UserControls\\UCPlayer.xaml.cs",
+              "RelativeDocumentMoniker": "SportsWPF\\UserControls\\UCPlayer.xaml.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\UserControls\\UCPlayer.xaml.cs",
+              "RelativeToolTip": "SportsWPF\\UserControls\\UCPlayer.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T05:19:30.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UCPlayer.xaml",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\UserControls\\UCPlayer.xaml",
+              "RelativeDocumentMoniker": "SportsWPF\\UserControls\\UCPlayer.xaml",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\UserControls\\UCPlayer.xaml",
+              "RelativeToolTip": "SportsWPF\\UserControls\\UCPlayer.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-09T05:12:34.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "SportsWPF\\ViewModels\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "SportsWPF\\ViewModels\\BaseViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T05:08:11.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\WPFTests2\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "WPFTests2\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\WPFTests2\\MSTestSettings.cs",
+              "RelativeToolTip": "WPFTests2\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T00:20:03.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SportsApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsApp\\SportsApp.csproj",
+              "RelativeDocumentMoniker": "SportsApp\\SportsApp.csproj",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsApp\\SportsApp.csproj",
+              "RelativeToolTip": "SportsApp\\SportsApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-13T00:03:18.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SportsWPF.csproj",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\SportsWPF.csproj",
+              "RelativeDocumentMoniker": "SportsWPF\\SportsWPF.csproj",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\SportsWPF.csproj",
+              "RelativeToolTip": "SportsWPF\\SportsWPF.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-13T00:05:53.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAFMHAAAAAAAAAAAnwGAHAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-12-13T00:07:36.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "TeamWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\TeamWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SportsWPF\\TeamWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\TeamWindow.xaml.cs",
+              "RelativeToolTip": "SportsWPF\\TeamWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T05:21:47.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AirHockey.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsApp\\AirHockey.cs",
+              "RelativeDocumentMoniker": "SportsApp\\AirHockey.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsApp\\AirHockey.cs",
+              "RelativeToolTip": "SportsApp\\AirHockey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:52:01.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsApp\\Team.cs",
+              "RelativeDocumentMoniker": "SportsApp\\Team.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsApp\\Team.cs",
+              "RelativeToolTip": "SportsApp\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:56:28.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Wrestling.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsApp\\Wrestling.cs",
+              "RelativeDocumentMoniker": "SportsApp\\Wrestling.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsApp\\Wrestling.cs",
+              "RelativeToolTip": "SportsApp\\Wrestling.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:54:41.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Chess.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsApp\\Chess.cs",
+              "RelativeDocumentMoniker": "SportsApp\\Chess.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsApp\\Chess.cs",
+              "RelativeToolTip": "SportsApp\\Chess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:52:52.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "StreetBall.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsApp\\StreetBall.cs",
+              "RelativeDocumentMoniker": "SportsApp\\StreetBall.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsApp\\StreetBall.cs",
+              "RelativeToolTip": "SportsApp\\StreetBall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:50:33.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ScheduleWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\ScheduleWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SportsWPF\\ScheduleWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\ScheduleWindow.xaml.cs",
+              "RelativeToolTip": "SportsWPF\\ScheduleWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T05:20:56.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ScheduleWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\ScheduleWindow.xaml",
+              "RelativeDocumentMoniker": "SportsWPF\\ScheduleWindow.xaml",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\ScheduleWindow.xaml",
+              "RelativeToolTip": "SportsWPF\\ScheduleWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-09T05:10:09.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AdminWIndow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\AdminWIndow.xaml.cs",
+              "RelativeDocumentMoniker": "SportsWPF\\AdminWIndow.xaml.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\AdminWIndow.xaml.cs",
+              "RelativeToolTip": "SportsWPF\\AdminWIndow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T05:21:31.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\ViewModels\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "SportsWPF\\ViewModels\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\ViewModels\\RelayCommand.cs",
+              "RelativeToolTip": "SportsWPF\\ViewModels\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T06:44:03.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "PlayerWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\PlayerWindow.xaml",
+              "RelativeDocumentMoniker": "SportsWPF\\PlayerWindow.xaml",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\PlayerWindow.xaml",
+              "RelativeToolTip": "SportsWPF\\PlayerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-09T05:09:40.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "PlayerWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\PlayerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SportsWPF\\PlayerWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\PlayerWindow.xaml.cs",
+              "RelativeToolTip": "SportsWPF\\PlayerWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T08:00:43.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "TeamWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\TeamWindow.xaml",
+              "RelativeDocumentMoniker": "SportsWPF\\TeamWindow.xaml",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\TeamWindow.xaml",
+              "RelativeToolTip": "SportsWPF\\TeamWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-09T05:10:30.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SportsWPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SportsWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T04:34:40.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SportsWPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\MainWindow.xaml",
+              "RelativeToolTip": "SportsWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-09T04:34:40.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsApp\\Program.cs",
+              "RelativeDocumentMoniker": "SportsApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsApp\\Program.cs",
+              "RelativeToolTip": "SportsApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:46:38.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsApp\\Person.cs",
+              "RelativeDocumentMoniker": "SportsApp\\Person.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsApp\\Person.cs",
+              "RelativeToolTip": "SportsApp\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:48:45.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "iTeam.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsApp\\iTeam.cs",
+              "RelativeDocumentMoniker": "SportsApp\\iTeam.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsApp\\iTeam.cs",
+              "RelativeToolTip": "SportsApp\\iTeam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:47:57.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "iStats.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsApp\\iStats.cs",
+              "RelativeDocumentMoniker": "SportsApp\\iStats.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsApp\\iStats.cs",
+              "RelativeToolTip": "SportsApp\\iStats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T22:38:35.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Iaddable.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsApp\\Iaddable.cs",
+              "RelativeDocumentMoniker": "SportsApp\\Iaddable.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsApp\\Iaddable.cs",
+              "RelativeToolTip": "SportsApp\\Iaddable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T07:54:58.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Nav.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\obj\\Debug\\net6.0-windows\\UserControls\\Nav.g.i.cs",
+              "RelativeDocumentMoniker": "SportsWPF\\obj\\Debug\\net6.0-windows\\UserControls\\Nav.g.i.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SportsAppTURNINTHISONE\\SportsApp\\SportsWPF\\obj\\Debug\\net6.0-windows\\UserControls\\Nav.g.i.cs",
+              "RelativeToolTip": "SportsWPF\\obj\\Debug\\net6.0-windows\\UserControls\\Nav.g.i.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAQwK4AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T06:20:27.428Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+﻿<Window x:Class="FinalProject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FinalProject"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="550" Width="1400" Loaded="Window_Loaded">
+    <Grid Background="#FFCAFFDB">
+        <Canvas x:Name="PlayerNameCanvas" Width="350" Height="80" Margin="41,380,1009,74" Background="#FFBBF8EF">
+            <TextBlock Canvas.Left="70" TextWrapping="Wrap" Text="Welcome Warrior! What is your name?" Height="30" Width="210" Canvas.Top="4" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+            <TextBox x:Name="NameBox" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Center" Width="175" Height="27" Canvas.Left="24" Canvas.Top="33"/>
+            <Button x:Name="PlayerNameSubmitButton" Content="Submit" HorizontalAlignment="Center" VerticalAlignment="Top" Height="27" Width="71" Canvas.Left="263" Canvas.Top="32" Click="PlayerNameSubmitButton_Click"/>
+        </Canvas>
+        <TextBlock x:Name="PlayerInformationBox" HorizontalAlignment="Left" Margin="1074,109,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="273" Width="228" Background="White"/>
+        <TextBlock x:Name="LocationInformationBox" HorizontalAlignment="Left" Margin="568,304,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="156" Width="302" Background="White"/>
+        <Button x:Name="CaveButton" Content="Cave" HorizontalAlignment="Left" Margin="750,46,0,0" VerticalAlignment="Top" Height="60" Width="120" Click="CaveButton_Click"/>
+        <Button x:Name="RuinedTownButton" Content="Ruined Town" HorizontalAlignment="Left" Margin="843,152,0,0" VerticalAlignment="Top" Height="60" Width="120" Click="RuinedTownButton_Click"/>
+        <Button x:Name="ForestButton" Content="Forest" HorizontalAlignment="Left" Margin="664,190,0,0" VerticalAlignment="Top" Height="60" Width="120" Click="ForestButton_Click"/>
+        <Button x:Name="VillageButton" Content="Village" HorizontalAlignment="Left" Margin="503,122,0,0" VerticalAlignment="Top" Click="VillageButton_Click" Height="60" Width="120"/>
+        <Button x:Name="HydraHead1" Content="Hydra Head 1" HorizontalAlignment="Left" Margin="20,122,0,0" VerticalAlignment="Top" Height="60" Width="90" Click="HydraHead1_Click"/>
+        <Button x:Name="HydraHead2" Content="Hydra Head 2" HorizontalAlignment="Left" Margin="140,122,0,0" VerticalAlignment="Top" Height="60" Width="90" Click="HydraHead2_Click"/>
+        <Button x:Name="HydraHead3" Content="Hydra Head 3" HorizontalAlignment="Left" Margin="260,122,0,0" VerticalAlignment="Top" Height="60" Width="90" Click="HydraHead3_Click"/>
+        <Button x:Name="hydraFightButton" Content="FIGHT!" HorizontalAlignment="Left" Margin="102,0,0,0" VerticalAlignment="Center" Height="80" Width="166" Click="hydraFightButton_Click"/>
+    </Grid>
+</Window>

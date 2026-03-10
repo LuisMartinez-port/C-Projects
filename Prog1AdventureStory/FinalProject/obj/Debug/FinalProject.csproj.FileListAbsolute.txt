@@ -1,0 +1,64 @@
+C:\Users\Martinez65\Documents\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\Martinez65\Documents\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\Martinez65\Documents\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\Martinez65\Documents\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\Martinez65\Documents\FinalProject\obj\Debug\FinalProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Martinez65\Documents\FinalProject\obj\Debug\MainWindow.g.cs
+C:\Users\Martinez65\Documents\FinalProject\obj\Debug\App.g.cs
+C:\Users\Martinez65\Documents\FinalProject\obj\Debug\FinalProject_MarkupCompile.cache
+C:\Users\Martinez65\Documents\FinalProject\obj\Debug\FinalProject_MarkupCompile.lref
+C:\Users\Martinez65\Documents\FinalProject\obj\Debug\MainWindow.baml
+C:\Users\Martinez65\Documents\FinalProject\obj\Debug\FinalProject.g.resources
+C:\Users\Martinez65\Documents\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\Martinez65\Documents\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\Martinez65\Documents\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Martinez65\Documents\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\Martinez65\Documents\FinalProject\obj\Debug\FinalProject.pdb
+U:\FinalProjectFolder\FinalProject\bin\Debug\FinalProject.exe.config
+U:\FinalProjectFolder\FinalProject\bin\Debug\FinalProject.exe
+U:\FinalProjectFolder\FinalProject\bin\Debug\FinalProject.pdb
+U:\FinalProjectFolder\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+U:\FinalProjectFolder\FinalProject\obj\Debug\FinalProject.csproj.SuggestedBindingRedirects.cache
+U:\FinalProjectFolder\FinalProject\obj\Debug\MainWindow.g.cs
+U:\FinalProjectFolder\FinalProject\obj\Debug\App.g.cs
+U:\FinalProjectFolder\FinalProject\obj\Debug\FinalProject_MarkupCompile.cache
+U:\FinalProjectFolder\FinalProject\obj\Debug\FinalProject_MarkupCompile.lref
+U:\FinalProjectFolder\FinalProject\obj\Debug\MainWindow.baml
+U:\FinalProjectFolder\FinalProject\obj\Debug\FinalProject.g.resources
+U:\FinalProjectFolder\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+U:\FinalProjectFolder\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+U:\FinalProjectFolder\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+U:\FinalProjectFolder\FinalProject\obj\Debug\FinalProject.exe
+U:\FinalProjectFolder\FinalProject\obj\Debug\FinalProject.pdb
+U:\AllMyWork\FinalProjectFolder\FinalProject\bin\Debug\FinalProject.exe.config
+U:\AllMyWork\FinalProjectFolder\FinalProject\bin\Debug\FinalProject.exe
+U:\AllMyWork\FinalProjectFolder\FinalProject\bin\Debug\FinalProject.pdb
+U:\AllMyWork\FinalProjectFolder\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+U:\AllMyWork\FinalProjectFolder\FinalProject\obj\Debug\FinalProject.exe.config
+U:\AllMyWork\FinalProjectFolder\FinalProject\obj\Debug\MainWindow.g.cs
+U:\AllMyWork\FinalProjectFolder\FinalProject\obj\Debug\App.g.cs
+U:\AllMyWork\FinalProjectFolder\FinalProject\obj\Debug\FinalProject_MarkupCompile.cache
+U:\AllMyWork\FinalProjectFolder\FinalProject\obj\Debug\FinalProject_MarkupCompile.lref
+U:\AllMyWork\FinalProjectFolder\FinalProject\obj\Debug\MainWindow.baml
+U:\AllMyWork\FinalProjectFolder\FinalProject\obj\Debug\FinalProject.g.resources
+U:\AllMyWork\FinalProjectFolder\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+U:\AllMyWork\FinalProjectFolder\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+U:\AllMyWork\FinalProjectFolder\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+U:\AllMyWork\FinalProjectFolder\FinalProject\obj\Debug\FinalProject.exe
+U:\AllMyWork\FinalProjectFolder\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\Luis\Downloads\FinalProject (2)\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\Luis\Downloads\FinalProject (2)\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\Luis\Downloads\FinalProject (2)\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\Luis\Downloads\FinalProject (2)\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\Luis\Downloads\FinalProject (2)\FinalProject\obj\Debug\FinalProject.exe.config
+C:\Users\Luis\Downloads\FinalProject (2)\FinalProject\obj\Debug\MainWindow.g.cs
+C:\Users\Luis\Downloads\FinalProject (2)\FinalProject\obj\Debug\App.g.cs
+C:\Users\Luis\Downloads\FinalProject (2)\FinalProject\obj\Debug\FinalProject_MarkupCompile.cache
+C:\Users\Luis\Downloads\FinalProject (2)\FinalProject\obj\Debug\FinalProject_MarkupCompile.lref
+C:\Users\Luis\Downloads\FinalProject (2)\FinalProject\obj\Debug\MainWindow.baml
+C:\Users\Luis\Downloads\FinalProject (2)\FinalProject\obj\Debug\FinalProject.g.resources
+C:\Users\Luis\Downloads\FinalProject (2)\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\Luis\Downloads\FinalProject (2)\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\Luis\Downloads\FinalProject (2)\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Downloads\FinalProject (2)\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\Luis\Downloads\FinalProject (2)\FinalProject\obj\Debug\FinalProject.pdb

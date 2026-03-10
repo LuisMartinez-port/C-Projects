@@ -1,0 +1,57 @@
+﻿<Window x:Class="SportsWPF.AdminWIndow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SportsWPF"
+        mc:Ignorable="d"
+          xmlns:uc="clr-namespace:SportsWPF.UserControls"
+        Title="AdminWIndow" Height="450" Width="800">
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <!-- Header Section -->
+        <uc:Nav></uc:Nav>
+        <!-- Add New Sport Section -->
+        <StackPanel Grid.Row="1" Orientation="Horizontal" VerticalAlignment="Center">
+            <Label Content="New Sport Name:" VerticalAlignment="Center"/>
+            <TextBox Width="150" Margin="5,0" Text="{Binding NewSportName, UpdateSourceTrigger=PropertyChanged}"/>
+            <Label Content="Description:" VerticalAlignment="Center"/>
+            <TextBox Width="300" Margin="5,0" Text="{Binding NewSportDescription, UpdateSourceTrigger=PropertyChanged}"/>
+            <Button Content="Add Sport" Width="100" Command="{Binding AddSportCommand}" Margin="10,0"/>
+        </StackPanel>
+        <!-- Sports and Teams Management Section -->
+        <StackPanel Grid.Row="2" Margin="0,10,0,-10">
+            <!-- Select Sport -->
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Top" Margin="0,0,0,10">
+                <Label Content="Select Sport:" VerticalAlignment="Center"/>
+                <ComboBox Width="200" VerticalAlignment="Center" ItemsSource="{Binding Sports}" SelectedItem="{Binding SelectedSport}" DisplayMemberPath="Name"/>
+            </StackPanel>
+            <!-- Sport Details -->
+            <StackPanel Orientation="Vertical" Margin="0,0,0,10">
+                <Label Content="Sport Details:" FontWeight="Bold"/>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="Name:" Width="100"/>
+                    <TextBox Width="200" Text="{Binding SelectedSport.Name, Mode=OneWay}" IsReadOnly="True"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="Description:" Width="100"/>
+                    <TextBox Width="300" Text="{Binding SelectedSport.Description, Mode=OneWay}" IsReadOnly="True"/>
+                </StackPanel>
+            </StackPanel>
+            <!-- Add Team Section -->
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Center" Margin="0,10,0,10">
+                <Label Content="New Team Name:" VerticalAlignment="Center"/>
+                <TextBox Width="200" Margin="5,0" Text="{Binding NewTeamName, UpdateSourceTrigger=PropertyChanged}"/>
+                <Button Content="Add Team" Width="100" Command="{Binding AddTeamCommand}" Margin="10,0"/>
+            </StackPanel>
+            <!-- Teams List -->
+            <Label Content="Teams for Selected Sport:" FontWeight="Bold"/>
+            <ListBox ItemsSource="{Binding Teams}" DisplayMemberPath="Name" />
+        </StackPanel>
+    </Grid>
+</Window>

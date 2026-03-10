@@ -1,0 +1,15 @@
+C:\Users\Luis\Desktop\Prog2visualStudios\CardGame\bin\Debug\CardGame.exe.config
+C:\Users\Luis\Desktop\Prog2visualStudios\CardGame\bin\Debug\CardGame.exe
+C:\Users\Luis\Desktop\Prog2visualStudios\CardGame\bin\Debug\CardGame.pdb
+C:\Users\Luis\Desktop\Prog2visualStudios\CardGame\obj\Debug\CardGame.csproj.AssemblyReference.cache
+C:\Users\Luis\Desktop\Prog2visualStudios\CardGame\obj\Debug\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\Prog2visualStudios\CardGame\obj\Debug\CardGame.exe
+C:\Users\Luis\Desktop\Prog2visualStudios\CardGame\obj\Debug\CardGame.pdb
+C:\Users\Luis\Downloads\CardGame-LuisMartinez\CardGame\bin\Debug\CardGame.exe.config
+C:\Users\Luis\Downloads\CardGame-LuisMartinez\CardGame\bin\Debug\CardGame.exe
+C:\Users\Luis\Downloads\CardGame-LuisMartinez\CardGame\bin\Debug\CardGame.pdb
+C:\Users\Luis\Downloads\CardGame-LuisMartinez\CardGame\obj\Debug\CardGame.csproj.AssemblyReference.cache
+C:\Users\Luis\Downloads\CardGame-LuisMartinez\CardGame\obj\Debug\CardGame.exe.config
+C:\Users\Luis\Downloads\CardGame-LuisMartinez\CardGame\obj\Debug\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Downloads\CardGame-LuisMartinez\CardGame\obj\Debug\CardGame.exe
+C:\Users\Luis\Downloads\CardGame-LuisMartinez\CardGame\obj\Debug\CardGame.pdb

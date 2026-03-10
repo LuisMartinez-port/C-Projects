@@ -1,0 +1,345 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luis\\Downloads\\SkateboardWPFviewmodelTURNINTHISONE\\SkateboardWPF2\\SkateboardWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E994BF6-19AF-4B51-82E1-CDBA2A791B05}|SkateboardWPF.csproj|c:\\users\\luis\\downloads\\skateboardwpfviewmodelturninthisone\\skateboardwpf2\\skateboardwpf\\skateboardwpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2E994BF6-19AF-4B51-82E1-CDBA2A791B05}|SkateboardWPF.csproj|solutionrelative:skateboardwpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Luis\\Desktop\\SkateboardWork\\TestFirstSprint2-Luis\\Skateboards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E994BF6-19AF-4B51-82E1-CDBA2A791B05}|SkateboardWPF.csproj|c:\\users\\luis\\downloads\\skateboardwpfviewmodelturninthisone\\skateboardwpf2\\skateboardwpf\\views\\skateboardview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E994BF6-19AF-4B51-82E1-CDBA2A791B05}|SkateboardWPF.csproj|solutionrelative:views\\skateboardview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E994BF6-19AF-4B51-82E1-CDBA2A791B05}|SkateboardWPF.csproj|c:\\users\\luis\\downloads\\skateboardwpfviewmodelturninthisone\\skateboardwpf2\\skateboardwpf\\viewmodels\\viewmodelskateboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E994BF6-19AF-4B51-82E1-CDBA2A791B05}|SkateboardWPF.csproj|solutionrelative:viewmodels\\viewmodelskateboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E994BF6-19AF-4B51-82E1-CDBA2A791B05}|SkateboardWPF.csproj|c:\\users\\luis\\downloads\\skateboardwpfviewmodelturninthisone\\skateboardwpf2\\skateboardwpf\\views\\skateboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E994BF6-19AF-4B51-82E1-CDBA2A791B05}|SkateboardWPF.csproj|solutionrelative:views\\skateboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E994BF6-19AF-4B51-82E1-CDBA2A791B05}|SkateboardWPF.csproj|c:\\users\\luis\\downloads\\skateboardwpfviewmodelturninthisone\\skateboardwpf2\\skateboardwpf\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E994BF6-19AF-4B51-82E1-CDBA2A791B05}|SkateboardWPF.csproj|solutionrelative:viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E994BF6-19AF-4B51-82E1-CDBA2A791B05}|SkateboardWPF.csproj|c:\\users\\luis\\downloads\\skateboardwpfviewmodelturninthisone\\skateboardwpf2\\skateboardwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E994BF6-19AF-4B51-82E1-CDBA2A791B05}|SkateboardWPF.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E994BF6-19AF-4B51-82E1-CDBA2A791B05}|SkateboardWPF.csproj|c:\\users\\luis\\downloads\\skateboardwpfviewmodelturninthisone\\skateboardwpf2\\skateboardwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E994BF6-19AF-4B51-82E1-CDBA2A791B05}|SkateboardWPF.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Luis\\AppData\\Local\\Temp\\.vsdbgsrc\\993bcf049a2f3befc5f0f5536758c8ae5c426ba70a22150e328f08628647f12d\\PropertyPathWorker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Luis\\AppData\\Local\\Temp\\.vsdbgsrc\\83616927926d14a9d63ba91b611a12293ac61079cc74be5d9c8aaec5dc9ed161\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E994BF6-19AF-4B51-82E1-CDBA2A791B05}|SkateboardWPF.csproj|c:\\users\\luis\\downloads\\skateboardwpfviewmodelturninthisone\\skateboardwpf2\\skateboardwpf\\images\\kickflipboard.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{2E994BF6-19AF-4B51-82E1-CDBA2A791B05}|SkateboardWPF.csproj|solutionrelative:images\\kickflipboard.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E994BF6-19AF-4B51-82E1-CDBA2A791B05}|SkateboardWPF.csproj|c:\\users\\luis\\downloads\\skateboardwpfviewmodelturninthisone\\skateboardwpf2\\skateboardwpf\\images\\dolphinflipboard.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{2E994BF6-19AF-4B51-82E1-CDBA2A791B05}|SkateboardWPF.csproj|solutionrelative:images\\dolphinflipboard.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E994BF6-19AF-4B51-82E1-CDBA2A791B05}|SkateboardWPF.csproj|c:\\users\\luis\\downloads\\skateboardwpfviewmodelturninthisone\\skateboardwpf2\\skateboardwpf\\images\\ollieboard.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{2E994BF6-19AF-4B51-82E1-CDBA2A791B05}|SkateboardWPF.csproj|solutionrelative:images\\ollieboard.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E994BF6-19AF-4B51-82E1-CDBA2A791B05}|SkateboardWPF.csproj|c:\\users\\luis\\downloads\\skateboardwpfviewmodelturninthisone\\skateboardwpf2\\skateboardwpf\\images\\rideboard.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{2E994BF6-19AF-4B51-82E1-CDBA2A791B05}|SkateboardWPF.csproj|solutionrelative:images\\rideboard.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Luis\\Desktop\\SkateboardWork\\TestFirstSprint2-Luis\\StreetBoard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Luis\\Desktop\\SkateboardWork\\TestFirstSprint2-Luis\\TestFirstSprint2-Luis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Luis\\Desktop\\SkateboardWork\\TestFirstSprint2-Luis\\CruiserBoard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Luis\\Desktop\\SkateboardWork\\TestFirstSprint2-Luis\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Luis\\Desktop\\SkateboardWork\\TestFirstSprint2-Luis\\Trucks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Luis\\Desktop\\SkateboardWork\\TestFirstSprint2-Luis\\Deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Luis\\Desktop\\SkateboardWork\\TestFirstSprint2-Luis\\Wheels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SkateboardWPF",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SkateboardWPFviewmodelTURNINTHISONE\\SkateboardWPF2\\SkateboardWPF\\SkateboardWPF.csproj",
+              "RelativeDocumentMoniker": "SkateboardWPF.csproj",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SkateboardWPFviewmodelTURNINTHISONE\\SkateboardWPF2\\SkateboardWPF\\SkateboardWPF.csproj",
+              "RelativeToolTip": "SkateboardWPF.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-10T03:16:40.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SkateBoardView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SkateboardWPFviewmodelTURNINTHISONE\\SkateboardWPF2\\SkateboardWPF\\Views\\SkateBoardView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\SkateBoardView.xaml.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SkateboardWPFviewmodelTURNINTHISONE\\SkateboardWPF2\\SkateboardWPF\\Views\\SkateBoardView.xaml.cs",
+              "RelativeToolTip": "Views\\SkateBoardView.xaml.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAuwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T07:03:10.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SkateboardWPFviewmodelTURNINTHISONE\\SkateboardWPF2\\SkateboardWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SkateboardWPFviewmodelTURNINTHISONE\\SkateboardWPF2\\SkateboardWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:58:38.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SkateboardWPFviewmodelTURNINTHISONE\\SkateboardWPF2\\SkateboardWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SkateboardWPFviewmodelTURNINTHISONE\\SkateboardWPF2\\SkateboardWPF\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-15T03:58:38.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewModelSkateBoard.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SkateboardWPFviewmodelTURNINTHISONE\\SkateboardWPF2\\SkateboardWPF\\ViewModels\\ViewModelSkateBoard.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ViewModelSkateBoard.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SkateboardWPFviewmodelTURNINTHISONE\\SkateboardWPF2\\SkateboardWPF\\ViewModels\\ViewModelSkateBoard.cs",
+              "RelativeToolTip": "ViewModels\\ViewModelSkateBoard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T06:14:44.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Skateboards.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Desktop\\SkateboardWork\\TestFirstSprint2-Luis\\Skateboards.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Desktop\\SkateboardWork\\TestFirstSprint2-Luis\\Skateboards.cs",
+              "ToolTip": "C:\\Users\\Luis\\Desktop\\SkateboardWork\\TestFirstSprint2-Luis\\Skateboards.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\SkateboardWork\\TestFirstSprint2-Luis\\Skateboards.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:07:01.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SkateBoardView.xaml",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SkateboardWPFviewmodelTURNINTHISONE\\SkateboardWPF2\\SkateboardWPF\\Views\\SkateBoardView.xaml",
+              "RelativeDocumentMoniker": "Views\\SkateBoardView.xaml",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SkateboardWPFviewmodelTURNINTHISONE\\SkateboardWPF2\\SkateboardWPF\\Views\\SkateBoardView.xaml",
+              "RelativeToolTip": "Views\\SkateBoardView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-29T07:03:06.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PropertyPathWorker.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\AppData\\Local\\Temp\\.vsdbgsrc\\993bcf049a2f3befc5f0f5536758c8ae5c426ba70a22150e328f08628647f12d\\PropertyPathWorker.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\993bcf049a2f3befc5f0f5536758c8ae5c426ba70a22150e328f08628647f12d\\PropertyPathWorker.cs",
+              "ToolTip": "C:\\Users\\Luis\\AppData\\Local\\Temp\\.vsdbgsrc\\993bcf049a2f3befc5f0f5536758c8ae5c426ba70a22150e328f08628647f12d\\PropertyPathWorker.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\993bcf049a2f3befc5f0f5536758c8ae5c426ba70a22150e328f08628647f12d\\PropertyPathWorker.cs",
+              "ViewState": "AgIAAJYEAAAAAAAAAAAvwLIEAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T08:19:54.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StreetBoard.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Desktop\\SkateboardWork\\TestFirstSprint2-Luis\\StreetBoard.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Desktop\\SkateboardWork\\TestFirstSprint2-Luis\\StreetBoard.cs",
+              "ToolTip": "C:\\Users\\Luis\\Desktop\\SkateboardWork\\TestFirstSprint2-Luis\\StreetBoard.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\SkateboardWork\\TestFirstSprint2-Luis\\StreetBoard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:07:09.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SkateboardWPFviewmodelTURNINTHISONE\\SkateboardWPF2\\SkateboardWPF\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SkateboardWPFviewmodelTURNINTHISONE\\SkateboardWPF2\\SkateboardWPF\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "ViewModels\\BaseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T06:13:15.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\AppData\\Local\\Temp\\.vsdbgsrc\\83616927926d14a9d63ba91b611a12293ac61079cc74be5d9c8aaec5dc9ed161\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\83616927926d14a9d63ba91b611a12293ac61079cc74be5d9c8aaec5dc9ed161\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\Luis\\AppData\\Local\\Temp\\.vsdbgsrc\\83616927926d14a9d63ba91b611a12293ac61079cc74be5d9c8aaec5dc9ed161\\XamlReader.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\83616927926d14a9d63ba91b611a12293ac61079cc74be5d9c8aaec5dc9ed161\\XamlReader.cs [Read Only]",
+              "ViewState": "AgIAAGwBAAAAAAAAAADwv5ABAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T08:08:18.992Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TestFirstSprint2-Luis.csproj",
+              "DocumentMoniker": "C:\\Users\\Luis\\Desktop\\SkateboardWork\\TestFirstSprint2-Luis\\TestFirstSprint2-Luis.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Desktop\\SkateboardWork\\TestFirstSprint2-Luis\\TestFirstSprint2-Luis.csproj",
+              "ToolTip": "C:\\Users\\Luis\\Desktop\\SkateboardWork\\TestFirstSprint2-Luis\\TestFirstSprint2-Luis.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\SkateboardWork\\TestFirstSprint2-Luis\\TestFirstSprint2-Luis.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-15T04:26:05.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CruiserBoard.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Desktop\\SkateboardWork\\TestFirstSprint2-Luis\\CruiserBoard.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Desktop\\SkateboardWork\\TestFirstSprint2-Luis\\CruiserBoard.cs",
+              "ToolTip": "C:\\Users\\Luis\\Desktop\\SkateboardWork\\TestFirstSprint2-Luis\\CruiserBoard.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\SkateboardWork\\TestFirstSprint2-Luis\\CruiserBoard.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:06:55.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Desktop\\SkateboardWork\\TestFirstSprint2-Luis\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Desktop\\SkateboardWork\\TestFirstSprint2-Luis\\Program.cs",
+              "ToolTip": "C:\\Users\\Luis\\Desktop\\SkateboardWork\\TestFirstSprint2-Luis\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\SkateboardWork\\TestFirstSprint2-Luis\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:06:59.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Trucks.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Desktop\\SkateboardWork\\TestFirstSprint2-Luis\\Trucks.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Desktop\\SkateboardWork\\TestFirstSprint2-Luis\\Trucks.cs",
+              "ToolTip": "C:\\Users\\Luis\\Desktop\\SkateboardWork\\TestFirstSprint2-Luis\\Trucks.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\SkateboardWork\\TestFirstSprint2-Luis\\Trucks.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:25:53.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Deck.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Desktop\\SkateboardWork\\TestFirstSprint2-Luis\\Deck.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Desktop\\SkateboardWork\\TestFirstSprint2-Luis\\Deck.cs",
+              "ToolTip": "C:\\Users\\Luis\\Desktop\\SkateboardWork\\TestFirstSprint2-Luis\\Deck.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\SkateboardWork\\TestFirstSprint2-Luis\\Deck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:06:55.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Wheels.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Desktop\\SkateboardWork\\TestFirstSprint2-Luis\\Wheels.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Desktop\\SkateboardWork\\TestFirstSprint2-Luis\\Wheels.cs",
+              "ToolTip": "C:\\Users\\Luis\\Desktop\\SkateboardWork\\TestFirstSprint2-Luis\\Wheels.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\SkateboardWork\\TestFirstSprint2-Luis\\Wheels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:25:51.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "rideboard.png",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SkateboardWPFviewmodelTURNINTHISONE\\SkateboardWPF2\\SkateboardWPF\\Images\\rideboard.png",
+              "RelativeDocumentMoniker": "Images\\rideboard.png",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SkateboardWPFviewmodelTURNINTHISONE\\SkateboardWPF2\\SkateboardWPF\\Images\\rideboard.png",
+              "RelativeToolTip": "Images\\rideboard.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-15T04:20:21.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ollieboard.jpg",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SkateboardWPFviewmodelTURNINTHISONE\\SkateboardWPF2\\SkateboardWPF\\Images\\ollieboard.jpg",
+              "RelativeDocumentMoniker": "Images\\ollieboard.jpg",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SkateboardWPFviewmodelTURNINTHISONE\\SkateboardWPF2\\SkateboardWPF\\Images\\ollieboard.jpg",
+              "RelativeToolTip": "Images\\ollieboard.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-15T04:20:18.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "kickflipboard.jpg",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SkateboardWPFviewmodelTURNINTHISONE\\SkateboardWPF2\\SkateboardWPF\\Images\\kickflipboard.jpg",
+              "RelativeDocumentMoniker": "Images\\kickflipboard.jpg",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SkateboardWPFviewmodelTURNINTHISONE\\SkateboardWPF2\\SkateboardWPF\\Images\\kickflipboard.jpg",
+              "RelativeToolTip": "Images\\kickflipboard.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-15T04:20:16.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dolphinflipboard.jpg",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\SkateboardWPFviewmodelTURNINTHISONE\\SkateboardWPF2\\SkateboardWPF\\Images\\dolphinflipboard.jpg",
+              "RelativeDocumentMoniker": "Images\\dolphinflipboard.jpg",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\SkateboardWPFviewmodelTURNINTHISONE\\SkateboardWPF2\\SkateboardWPF\\Images\\dolphinflipboard.jpg",
+              "RelativeToolTip": "Images\\dolphinflipboard.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-15T04:20:12.887Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

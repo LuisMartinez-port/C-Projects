@@ -1,0 +1,38 @@
+﻿<Window x:Class="SkateboardWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SkateboardWPF"
+        xmlns:views="clr-namespace:SkateboardWPF.Views"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        
+        <views:SkateBoardView x:Name="vSkateboard"></views:SkateBoardView>
+
+
+        
+        <!--<StackPanel Orientation="Horizontal">
+
+            <StackPanel Orientation="Vertical">
+                <Label>Controls</Label>
+                <Button x:Name="btnSkateRight" Click="btnSkateRight_Click" >Skate Right</Button>
+                <Button x:Name="btnSkateLeft" Click="btnSkateLeft_Click" >Skate Left</Button>
+                <Button x:Name="btnOllie" Click="btnOllie_Click" >Pop Board</Button>
+                <Button x:Name="btnDolphinFlip" Click="btnDolphinFlip_Click">Do A Dolphin Flip</Button>
+                <Button x:Name="btnKickFlip" Click="btnKickFlip_Click">Do A Kick Flip</Button>
+
+            </StackPanel>
+
+            <StackPanel Orientation="Vertical">
+                <Label>Boards</Label>
+                <Canvas x:Name="SkateBoardCanvas">
+                    <Image x:Name="imgBoard" Source="Images\rideboard.png" Width="76" Height="80" Canvas.Left="46" Canvas.Top="170"></Image>
+
+                </Canvas>
+            </StackPanel>
+
+        </StackPanel>-->
+    </Grid>
+</Window>

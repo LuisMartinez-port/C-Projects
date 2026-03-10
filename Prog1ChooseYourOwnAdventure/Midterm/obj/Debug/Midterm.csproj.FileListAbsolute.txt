@@ -1,0 +1,24 @@
+U:\Prog101\Midterm\obj\Debug\Midterm.csproj.AssemblyReference.cache
+U:\Prog101\Midterm\obj\Debug\Midterm.csproj.SuggestedBindingRedirects.cache
+U:\Prog101\Midterm\obj\Debug\Midterm.csproj.CoreCompileInputs.cache
+U:\Prog101\Midterm\bin\Debug\Midterm.exe.config
+U:\Prog101\Midterm\bin\Debug\Midterm.exe
+U:\Prog101\Midterm\bin\Debug\Midterm.pdb
+U:\Prog101\Midterm\obj\Debug\Midterm.exe
+U:\Prog101\Midterm\obj\Debug\Midterm.pdb
+U:\AllMyWork\Prog101\Midterm\bin\Debug\Midterm.exe.config
+U:\AllMyWork\Prog101\Midterm\bin\Debug\Midterm.exe
+U:\AllMyWork\Prog101\Midterm\bin\Debug\Midterm.pdb
+U:\AllMyWork\Prog101\Midterm\obj\Debug\Midterm.csproj.AssemblyReference.cache
+U:\AllMyWork\Prog101\Midterm\obj\Debug\Midterm.exe.config
+U:\AllMyWork\Prog101\Midterm\obj\Debug\Midterm.csproj.CoreCompileInputs.cache
+U:\AllMyWork\Prog101\Midterm\obj\Debug\Midterm.exe
+U:\AllMyWork\Prog101\Midterm\obj\Debug\Midterm.pdb
+C:\Users\Luis\Downloads\Midterm (3)\Midterm\bin\Debug\Midterm.exe.config
+C:\Users\Luis\Downloads\Midterm (3)\Midterm\bin\Debug\Midterm.exe
+C:\Users\Luis\Downloads\Midterm (3)\Midterm\bin\Debug\Midterm.pdb
+C:\Users\Luis\Downloads\Midterm (3)\Midterm\obj\Debug\Midterm.csproj.AssemblyReference.cache
+C:\Users\Luis\Downloads\Midterm (3)\Midterm\obj\Debug\Midterm.exe.config
+C:\Users\Luis\Downloads\Midterm (3)\Midterm\obj\Debug\Midterm.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Downloads\Midterm (3)\Midterm\obj\Debug\Midterm.exe
+C:\Users\Luis\Downloads\Midterm (3)\Midterm\obj\Debug\Midterm.pdb

@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luis\\Downloads\\CardGame-LuisMartinez\\CardGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Luis\\Downloads\\CardGame-LuisMartinez\\CardGame\\bin\\Debug\\CardGame.exe.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\CardGame.exe.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF5FE7F-8C50-4139-B584-9D07DA28DD9E}|CardGame.csproj|C:\\Users\\Luis\\Downloads\\CardGame-LuisMartinez\\CardGame\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF5FE7F-8C50-4139-B584-9D07DA28DD9E}|CardGame.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF5FE7F-8C50-4139-B584-9D07DA28DD9E}|CardGame.csproj|C:\\Users\\Luis\\Downloads\\CardGame-LuisMartinez\\CardGame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF5FE7F-8C50-4139-B584-9D07DA28DD9E}|CardGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF5FE7F-8C50-4139-B584-9D07DA28DD9E}|CardGame.csproj|C:\\Users\\Luis\\Downloads\\CardGame-LuisMartinez\\CardGame\\higherorlower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF5FE7F-8C50-4139-B584-9D07DA28DD9E}|CardGame.csproj|solutionrelative:higherorlower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF5FE7F-8C50-4139-B584-9D07DA28DD9E}|CardGame.csproj|C:\\Users\\Luis\\Downloads\\CardGame-LuisMartinez\\CardGame\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF5FE7F-8C50-4139-B584-9D07DA28DD9E}|CardGame.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF5FE7F-8C50-4139-B584-9D07DA28DD9E}|CardGame.csproj|C:\\Users\\Luis\\Downloads\\CardGame-LuisMartinez\\CardGame\\highestmatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF5FE7F-8C50-4139-B584-9D07DA28DD9E}|CardGame.csproj|solutionrelative:highestmatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF5FE7F-8C50-4139-B584-9D07DA28DD9E}|CardGame.csproj|C:\\Users\\Luis\\Downloads\\CardGame-LuisMartinez\\CardGame\\sameordifferent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF5FE7F-8C50-4139-B584-9D07DA28DD9E}|CardGame.csproj|solutionrelative:sameordifferent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF5FE7F-8C50-4139-B584-9D07DA28DD9E}|CardGame.csproj|C:\\Users\\Luis\\Downloads\\CardGame-LuisMartinez\\CardGame\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF5FE7F-8C50-4139-B584-9D07DA28DD9E}|CardGame.csproj|solutionrelative:card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF5FE7F-8C50-4139-B584-9D07DA28DD9E}|CardGame.csproj|C:\\Users\\Luis\\Downloads\\CardGame-LuisMartinez\\CardGame\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF5FE7F-8C50-4139-B584-9D07DA28DD9E}|CardGame.csproj|solutionrelative:deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF5FE7F-8C50-4139-B584-9D07DA28DD9E}|CardGame.csproj|C:\\Users\\Luis\\Downloads\\CardGame-LuisMartinez\\CardGame\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF5FE7F-8C50-4139-B584-9D07DA28DD9E}|CardGame.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF5FE7F-8C50-4139-B584-9D07DA28DD9E}|CardGame.csproj|C:\\Users\\Luis\\Downloads\\CardGame-LuisMartinez\\CardGame\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF5FE7F-8C50-4139-B584-9D07DA28DD9E}|CardGame.csproj|solutionrelative:utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF5FE7F-8C50-4139-B584-9D07DA28DD9E}|CardGame.csproj|C:\\Users\\Luis\\Downloads\\CardGame-LuisMartinez\\CardGame\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{CDF5FE7F-8C50-4139-B584-9D07DA28DD9E}|CardGame.csproj|solutionrelative:classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CardGame.exe.config",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\CardGame-LuisMartinez\\CardGame\\bin\\Debug\\CardGame.exe.config",
+              "RelativeDocumentMoniker": "bin\\Debug\\CardGame.exe.config",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\CardGame-LuisMartinez\\CardGame\\bin\\Debug\\CardGame.exe.config",
+              "RelativeToolTip": "bin\\Debug\\CardGame.exe.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-03-10T03:21:35.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HigherorLower.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\CardGame-LuisMartinez\\CardGame\\HigherorLower.cs",
+              "RelativeDocumentMoniker": "HigherorLower.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\CardGame-LuisMartinez\\CardGame\\HigherorLower.cs",
+              "RelativeToolTip": "HigherorLower.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAA6wCAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T03:21:35.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\CardGame-LuisMartinez\\CardGame\\Game.cs",
+              "RelativeDocumentMoniker": "Game.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\CardGame-LuisMartinez\\CardGame\\Game.cs",
+              "RelativeToolTip": "Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T03:21:35.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HighestMatch.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\CardGame-LuisMartinez\\CardGame\\HighestMatch.cs",
+              "RelativeDocumentMoniker": "HighestMatch.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\CardGame-LuisMartinez\\CardGame\\HighestMatch.cs",
+              "RelativeToolTip": "HighestMatch.cs",
+              "ViewState": "AQIAACEBAAAAAAAAAAAQwD8BAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T03:21:35.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\CardGame-LuisMartinez\\CardGame\\Utility.cs",
+              "RelativeDocumentMoniker": "Utility.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\CardGame-LuisMartinez\\CardGame\\Utility.cs",
+              "RelativeToolTip": "Utility.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T03:21:35.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\CardGame-LuisMartinez\\CardGame\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\CardGame-LuisMartinez\\CardGame\\Menu.cs",
+              "RelativeToolTip": "Menu.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAswDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T03:21:35.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Deck.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\CardGame-LuisMartinez\\CardGame\\Deck.cs",
+              "RelativeDocumentMoniker": "Deck.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\CardGame-LuisMartinez\\CardGame\\Deck.cs",
+              "RelativeToolTip": "Deck.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAQwEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T03:21:35.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SameOrDifferent.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\CardGame-LuisMartinez\\CardGame\\SameOrDifferent.cs",
+              "RelativeDocumentMoniker": "SameOrDifferent.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\CardGame-LuisMartinez\\CardGame\\SameOrDifferent.cs",
+              "RelativeToolTip": "SameOrDifferent.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwGkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T03:21:35.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\CardGame-LuisMartinez\\CardGame\\Card.cs",
+              "RelativeDocumentMoniker": "Card.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\CardGame-LuisMartinez\\CardGame\\Card.cs",
+              "RelativeToolTip": "Card.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T03:21:35.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\CardGame-LuisMartinez\\CardGame\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\CardGame-LuisMartinez\\CardGame\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T03:21:35.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\CardGame-LuisMartinez\\CardGame\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\CardGame-LuisMartinez\\CardGame\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T03:21:35.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\Luis\\Downloads\\CardGame-LuisMartinez\\CardGame\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\Luis\\Downloads\\CardGame-LuisMartinez\\CardGame\\ClassDiagram1.cd",
+              "RelativeToolTip": "ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2026-03-10T03:21:35.801Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

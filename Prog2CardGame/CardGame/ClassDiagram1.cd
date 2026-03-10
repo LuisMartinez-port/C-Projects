@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="CardGame.WarGame">
+    <Position X="1.75" Y="3.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAEAAAEAAAAAAAAAA=</HashCode>
+      <FileName>WarGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardGame.Player">
+    <Position X="16" Y="4.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAEAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardGame.GoFish">
+    <Position X="8.25" Y="7.25" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>GoFish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardGame.Game">
+    <Position X="1.25" Y="0.5" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAQAAQAAAAAAAAAEAAAAAEA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardGame.Deck">
+    <Position X="8.75" Y="1" Width="5.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAABAAAAAAAABAAAAA=</HashCode>
+      <FileName>Deck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardGame.Card">
+    <Position X="15" Y="1" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Card.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardGame.Blackjack">
+    <Position X="6.25" Y="3.5" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAEAAAAAAAQgAAACAAAAAAAAAAAQACAA=</HashCode>
+      <FileName>Blackjack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkateboardWPF", "SkateboardWPF.csproj", "{2E994BF6-19AF-4B51-82E1-CDBA2A791B05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFirstSprint2-Luis", "..\..\..\..\source\repos\SkateboardWPF2\TestFirstSprint2-Luis\TestFirstSprint2-Luis.csproj", "{F27D659B-CB2B-7D00-AB9D-EECFA6958EFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E994BF6-19AF-4B51-82E1-CDBA2A791B05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E994BF6-19AF-4B51-82E1-CDBA2A791B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E994BF6-19AF-4B51-82E1-CDBA2A791B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E994BF6-19AF-4B51-82E1-CDBA2A791B05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F27D659B-CB2B-7D00-AB9D-EECFA6958EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F27D659B-CB2B-7D00-AB9D-EECFA6958EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F27D659B-CB2B-7D00-AB9D-EECFA6958EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F27D659B-CB2B-7D00-AB9D-EECFA6958EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C3D347C-BB08-43BE-B6CF-DB448336477D}
+	EndGlobalSection
+EndGlobal

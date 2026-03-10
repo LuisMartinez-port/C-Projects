@@ -1,0 +1,160 @@
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsWPF\bin\Debug\net6.0-windows\SportsApp.deps.json
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsWPF\bin\Debug\net6.0-windows\SportsApp.runtimeconfig.json
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsWPF\bin\Debug\net6.0-windows\SportsApp.exe
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsWPF\bin\Debug\net6.0-windows\SportsWPF.exe
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsWPF\bin\Debug\net6.0-windows\SportsWPF.deps.json
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsWPF\bin\Debug\net6.0-windows\SportsWPF.runtimeconfig.json
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsWPF\bin\Debug\net6.0-windows\SportsWPF.dll
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsWPF\bin\Debug\net6.0-windows\SportsWPF.pdb
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsWPF\bin\Debug\net6.0-windows\SportsApp.dll
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsWPF\bin\Debug\net6.0-windows\SportsApp.pdb
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF.csproj.AssemblyReference.cache
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsWPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsWPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF_MarkupCompile.cache
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF_MarkupCompile.lref
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsWPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF.g.resources
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF.AssemblyInfoInputs.cache
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF.AssemblyInfo.cs
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF.csproj.Up2Date
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF.dll
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsWPF\obj\Debug\net6.0-windows\refint\SportsWPF.dll
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF.pdb
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF.genruntimeconfig.cache
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsWPF\obj\Debug\net6.0-windows\ref\SportsWPF.dll
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsWPF\obj\Debug\net6.0-windows\AdminWIndow.g.cs
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsWPF\obj\Debug\net6.0-windows\PlayerWindow.g.cs
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsWPF\obj\Debug\net6.0-windows\ScheduleWindow.g.cs
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsWPF\obj\Debug\net6.0-windows\TeamWindow.g.cs
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsWPF\obj\Debug\net6.0-windows\UserControls\Nav.g.cs
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsWPF\obj\Debug\net6.0-windows\UserControls\UCPlayer.g.cs
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsWPF\obj\Debug\net6.0-windows\AdminWIndow.baml
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsWPF\obj\Debug\net6.0-windows\PlayerWindow.baml
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsWPF\obj\Debug\net6.0-windows\ScheduleWindow.baml
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsWPF\obj\Debug\net6.0-windows\TeamWindow.baml
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsWPF\obj\Debug\net6.0-windows\UserControls\Nav.baml
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsWPF\obj\Debug\net6.0-windows\UserControls\UCPlayer.baml
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsWPF\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsWPF\bin\Debug\net6.0-windows\SportsApp.deps.json
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsWPF\bin\Debug\net6.0-windows\SportsApp.runtimeconfig.json
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsWPF\bin\Debug\net6.0-windows\SportsApp.exe
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsWPF\bin\Debug\net6.0-windows\SportsWPF.exe
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsWPF\bin\Debug\net6.0-windows\SportsWPF.deps.json
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsWPF\bin\Debug\net6.0-windows\SportsWPF.runtimeconfig.json
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsWPF\bin\Debug\net6.0-windows\SportsWPF.dll
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsWPF\bin\Debug\net6.0-windows\SportsWPF.pdb
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsWPF\bin\Debug\net6.0-windows\SportsApp.dll
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsWPF\bin\Debug\net6.0-windows\SportsApp.pdb
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF.csproj.AssemblyReference.cache
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\AdminWIndow.g.cs
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\PlayerWindow.g.cs
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\ScheduleWindow.g.cs
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\TeamWindow.g.cs
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\UserControls\Nav.g.cs
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\UserControls\UCPlayer.g.cs
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF_MarkupCompile.cache
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF_MarkupCompile.lref
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\AdminWIndow.baml
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\PlayerWindow.baml
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\ScheduleWindow.baml
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\TeamWindow.baml
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\UserControls\Nav.baml
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\UserControls\UCPlayer.baml
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF.g.resources
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF.AssemblyInfoInputs.cache
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF.AssemblyInfo.cs
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF.csproj.CoreCompileInputs.cache
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF.csproj.Up2Date
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF.dll
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\refint\SportsWPF.dll
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF.pdb
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF.genruntimeconfig.cache
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\ref\SportsWPF.dll
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsWPF\bin\Debug\net6.0-windows\SportsApp.deps.json
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsWPF\bin\Debug\net6.0-windows\SportsApp.runtimeconfig.json
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsWPF\bin\Debug\net6.0-windows\SportsApp.exe
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsWPF\bin\Debug\net6.0-windows\SportsWPF.exe
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsWPF\bin\Debug\net6.0-windows\SportsWPF.deps.json
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsWPF\bin\Debug\net6.0-windows\SportsWPF.runtimeconfig.json
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsWPF\bin\Debug\net6.0-windows\SportsWPF.dll
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsWPF\bin\Debug\net6.0-windows\SportsWPF.pdb
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsWPF\bin\Debug\net6.0-windows\SportsApp.dll
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsWPF\bin\Debug\net6.0-windows\SportsApp.pdb
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF.csproj.AssemblyReference.cache
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\AdminWIndow.g.cs
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\PlayerWindow.g.cs
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\ScheduleWindow.g.cs
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\TeamWindow.g.cs
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\UserControls\Nav.g.cs
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\UserControls\UCPlayer.g.cs
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF_MarkupCompile.cache
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF_MarkupCompile.lref
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\AdminWIndow.baml
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\PlayerWindow.baml
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\ScheduleWindow.baml
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\TeamWindow.baml
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\UserControls\Nav.baml
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\UserControls\UCPlayer.baml
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF.g.resources
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF.AssemblyInfoInputs.cache
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF.AssemblyInfo.cs
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF.csproj.Up2Date
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF.dll
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\refint\SportsWPF.dll
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF.pdb
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF.genruntimeconfig.cache
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\ref\SportsWPF.dll
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsWPF\bin\Debug\net6.0-windows\SportsApp.deps.json
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsWPF\bin\Debug\net6.0-windows\SportsApp.runtimeconfig.json
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsWPF\bin\Debug\net6.0-windows\SportsApp.exe
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsWPF\bin\Debug\net6.0-windows\SportsWPF.exe
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsWPF\bin\Debug\net6.0-windows\SportsWPF.deps.json
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsWPF\bin\Debug\net6.0-windows\SportsWPF.runtimeconfig.json
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsWPF\bin\Debug\net6.0-windows\SportsWPF.dll
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsWPF\bin\Debug\net6.0-windows\SportsWPF.pdb
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsWPF\bin\Debug\net6.0-windows\SportsApp.dll
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsWPF\bin\Debug\net6.0-windows\SportsApp.pdb
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF.csproj.AssemblyReference.cache
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\AdminWIndow.g.cs
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\PlayerWindow.g.cs
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\ScheduleWindow.g.cs
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\TeamWindow.g.cs
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\UserControls\Nav.g.cs
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\UserControls\UCPlayer.g.cs
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF_MarkupCompile.cache
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF_MarkupCompile.lref
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\AdminWIndow.baml
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\PlayerWindow.baml
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\ScheduleWindow.baml
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\TeamWindow.baml
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\UserControls\Nav.baml
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\UserControls\UCPlayer.baml
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF.g.resources
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF.AssemblyInfoInputs.cache
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF.AssemblyInfo.cs
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF.csproj.Up2Date
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF.dll
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\refint\SportsWPF.dll
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF.pdb
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\SportsWPF.genruntimeconfig.cache
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsWPF\obj\Debug\net6.0-windows\ref\SportsWPF.dll

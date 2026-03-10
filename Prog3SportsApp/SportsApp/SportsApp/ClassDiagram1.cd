@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="SportsApp.Person">
+    <Position X="0.75" Y="3.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SportsApp.Player">
+    <Position X="0.75" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAgAAAAAEBAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SportsApp.Sport">
+    <Position X="8" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAgAAAAABAAAAQCAAAgAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Sport.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SportsApp.SportsRepo">
+    <Position X="4.5" Y="6.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAEAAAAAgAAAAAIAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>SportsRepo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SportsApp.Team">
+    <Position X="1.25" Y="5.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAEAAgQAAAABBAAAQAAAAgAAAgAAiAAAAAAAA=</HashCode>
+      <FileName>Team.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SportsApp.TeamRepo">
+    <Position X="7.75" Y="5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIBAgAAAAAAAACAAAAAAAQAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>TeamRepo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SportsApp.Match">
+    <Position X="13.75" Y="4.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAEAACAAAAgAgAAAAQAAAgBAAAAQAA=</HashCode>
+      <FileName>Match.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SportsApp.StreetBall" Collapsed="true">
+    <Position X="9.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StreetBall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SportsApp.Wrestling" Collapsed="true">
+    <Position X="5.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Wrestling.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SportsApp.UserDefinedSport" Collapsed="true">
+    <Position X="12" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UserDefinedSport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SportsApp.Chess" Collapsed="true">
+    <Position X="7.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Chess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SportsApp.AirHockey" Collapsed="true">
+    <Position X="11.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AirHockey.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="SportsApp.iPlayer">
+    <Position X="3.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>iPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SportsApp.iSport">
+    <Position X="11" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>iSport.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SportsApp.iTeam">
+    <Position X="4.5" Y="4.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAQAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>iTeam.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SportsApp.iStats">
+    <Position X="11.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAgAAAAAABAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>iStats.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SportsApp.iSportsRepo" Collapsed="true">
+    <Position X="7.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAEAAAAAgAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>iSportsRepo.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SportsApp.iTeamRepo" Collapsed="true">
+    <Position X="9.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIBAAAAAAAAAACAAAAAAAQAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>iSportsRepo.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SportsApp.Iaddable" Collapsed="true">
+    <Position X="5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Iaddable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

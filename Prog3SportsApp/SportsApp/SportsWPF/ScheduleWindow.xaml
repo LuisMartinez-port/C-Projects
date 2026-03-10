@@ -1,0 +1,48 @@
+﻿<Window x:Class="SportsWPF.ScheduleWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SportsWPF"
+        mc:Ignorable="d"
+        xmlns:uc="clr-namespace:SportsWPF.UserControls"
+        Title="ScheduleWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <uc:Nav></uc:Nav>
+            <Separator Margin="10"></Separator>
+            <Label>Sport</Label>
+            <ComboBox x:Name="cbScheduleSport"
+                  SelectedItem="{Binding SelectedSport}"
+                  ItemsSource="{Binding Sports}"
+                  DisplayMemberPath="Name">
+            </ComboBox>
+
+            <Label>Home</Label>
+            <ComboBox x:Name="cbScheduleHomeTeam"
+                  ItemsSource="{Binding PlayersForSelectedSport}"
+                  SelectedItem="{Binding SelectedHomePlayer}"
+                  DisplayMemberPath="Name">
+            </ComboBox>
+
+            <Label>Visitor</Label>
+            <ComboBox x:Name="cbScheduleVisitorTeam"
+                  ItemsSource="{Binding PlayersForSelectedSport}"
+                  SelectedItem="{Binding SelectedVisitorPlayer}"
+                  DisplayMemberPath="Name">
+            </ComboBox>
+
+            <StackPanel Orientation="Horizontal">
+                <Label>Date:</Label>
+                <TextBox Width="150" Text="{Binding MatchDate, UpdateSourceTrigger=PropertyChanged}" x:Name="tbScheduleDate"/>
+                <TextBlock Text="(Format: xx-xx-xxxx)" VerticalAlignment="Center" Margin="10,0,0,0"/>
+            </StackPanel>
+
+            <Button x:Name="btnScheduleAddMatch" Content="Add Match" Command="{Binding AddMatchCommand}"/>
+
+            <Separator Margin="10"></Separator>
+            <Label Content="Scheduled Matches:" FontWeight="Bold"/>
+            <ListBox ItemsSource="{Binding Matches}" DisplayMemberPath="MatchDescription"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,56 @@
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsApp\bin\Debug\net6.0\SportsApp.exe
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsApp\bin\Debug\net6.0\SportsApp.deps.json
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsApp\bin\Debug\net6.0\SportsApp.runtimeconfig.json
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsApp\bin\Debug\net6.0\SportsApp.dll
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsApp\bin\Debug\net6.0\SportsApp.pdb
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsApp\obj\Debug\net6.0\SportsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsApp\obj\Debug\net6.0\SportsApp.AssemblyInfoInputs.cache
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsApp\obj\Debug\net6.0\SportsApp.AssemblyInfo.cs
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsApp\obj\Debug\net6.0\SportsApp.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsApp\obj\Debug\net6.0\SportsApp.dll
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsApp\obj\Debug\net6.0\refint\SportsApp.dll
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsApp\obj\Debug\net6.0\SportsApp.pdb
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsApp\obj\Debug\net6.0\SportsApp.genruntimeconfig.cache
+C:\Users\Luis\Desktop\FINAL PROJECT FOLDER WITH EVERYTHING DONT TURN IN NO NO NO\SportsApp\SportsApp\obj\Debug\net6.0\ref\SportsApp.dll
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsApp\bin\Debug\net6.0\SportsApp.exe
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsApp\bin\Debug\net6.0\SportsApp.deps.json
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsApp\bin\Debug\net6.0\SportsApp.runtimeconfig.json
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsApp\bin\Debug\net6.0\SportsApp.dll
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsApp\bin\Debug\net6.0\SportsApp.pdb
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsApp\obj\Debug\net6.0\SportsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsApp\obj\Debug\net6.0\SportsApp.AssemblyInfoInputs.cache
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsApp\obj\Debug\net6.0\SportsApp.AssemblyInfo.cs
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsApp\obj\Debug\net6.0\SportsApp.csproj.CoreCompileInputs.cache
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsApp\obj\Debug\net6.0\SportsApp.dll
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsApp\obj\Debug\net6.0\refint\SportsApp.dll
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsApp\obj\Debug\net6.0\SportsApp.pdb
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsApp\obj\Debug\net6.0\SportsApp.genruntimeconfig.cache
+C:\Users\logan\Downloads\SportsAppHEHEHE\SportsApp\SportsApp\obj\Debug\net6.0\ref\SportsApp.dll
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsApp\bin\Debug\net6.0\SportsApp.exe
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsApp\bin\Debug\net6.0\SportsApp.deps.json
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsApp\bin\Debug\net6.0\SportsApp.runtimeconfig.json
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsApp\bin\Debug\net6.0\SportsApp.dll
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsApp\bin\Debug\net6.0\SportsApp.pdb
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsApp\obj\Debug\net6.0\SportsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsApp\obj\Debug\net6.0\SportsApp.AssemblyInfoInputs.cache
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsApp\obj\Debug\net6.0\SportsApp.AssemblyInfo.cs
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsApp\obj\Debug\net6.0\SportsApp.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsApp\obj\Debug\net6.0\SportsApp.dll
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsApp\obj\Debug\net6.0\refint\SportsApp.dll
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsApp\obj\Debug\net6.0\SportsApp.pdb
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsApp\obj\Debug\net6.0\SportsApp.genruntimeconfig.cache
+C:\Users\Luis\Desktop\SchoolWork\P2\SportsAppHEHEHE\SportsApp\SportsApp\obj\Debug\net6.0\ref\SportsApp.dll
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsApp\bin\Debug\net6.0\SportsApp.exe
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsApp\bin\Debug\net6.0\SportsApp.deps.json
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsApp\bin\Debug\net6.0\SportsApp.runtimeconfig.json
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsApp\bin\Debug\net6.0\SportsApp.dll
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsApp\bin\Debug\net6.0\SportsApp.pdb
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsApp\obj\Debug\net6.0\SportsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsApp\obj\Debug\net6.0\SportsApp.AssemblyInfoInputs.cache
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsApp\obj\Debug\net6.0\SportsApp.AssemblyInfo.cs
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsApp\obj\Debug\net6.0\SportsApp.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsApp\obj\Debug\net6.0\SportsApp.dll
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsApp\obj\Debug\net6.0\refint\SportsApp.dll
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsApp\obj\Debug\net6.0\SportsApp.pdb
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsApp\obj\Debug\net6.0\SportsApp.genruntimeconfig.cache
+C:\Users\Luis\Downloads\SportsAppTURNINTHISONE\SportsApp\SportsApp\obj\Debug\net6.0\ref\SportsApp.dll
